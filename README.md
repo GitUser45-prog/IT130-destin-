@@ -1,0 +1,1 @@
+Je suis étudiant en développement web. "blog", "contact" et "index" sont mes premiers projets en développement. "blog" est la page de mon premier blog, "contact" est une page de formulaire à remplir pour me contacter et "index" représente mon premier pas en développement web
